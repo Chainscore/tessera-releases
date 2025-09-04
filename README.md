@@ -2,6 +2,9 @@
 
 [![Release Status](https://img.shields.io/github/v/release/Chainscore/tessera-releases?label=latest)](https://github.com/Chainscore/tessera-releases/releases)
 
+
+Tessera is a performant, open‑source, clean‑room implementation of the JAM protocol as defined in [Graypaper](graypaper.com), developed by Chainscore Labs. It is designed for correctness and speed with minimal external dependencies, but is under active development, APIs and behavior may change, and it is not safe to use in production until a stable 1.0.0 release is published.
+
 > **Automated binary releases for [Tessera Node](https://github.com/Chainscore/tessera)**  
 > For support or issues, contact [prasad@chainscore.finance](mailto:prasad@chainscore.finance)
 
